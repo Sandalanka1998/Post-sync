@@ -1,4 +1,4 @@
-describe("Landing Page Automation", () =>  {
+describe("Landing Page", () =>  {
 
     it('Functions', () => {
 
